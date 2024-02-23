@@ -9,10 +9,12 @@ const textthree = "";
 const textfour = "";
 const type = "STREAMING";
 const pictureGede = [
-"https://cdn.discordapp.com/attachments/1021422952769650818/1202692245300576256/406471900_744314684178753_1197153636638370874_n.gif?ex=65ce6170&is=65bbec70&hm=15ba1d72f91450ed2e285ec4032986fe6828dee454a135abc227025a882c9bc5&",
+"https://cdn.discordapp.com/attachments/1021422952769650818/1210640553927114802/c17dfb796dce3dffcb10c7f9172d0c48.gif?ex=65eb4be0&is=65d8d6e0&hm=10dde9e26f7fecddedbc80f932b7a6f8aa7a8ed9b4471207a2c90e51d417da5e&",
+"https://cdn.discordapp.com/attachments/1021422952769650818/1210640554371588096/6720aac3d27437810aa0b1cccf5855da.gif?ex=65eb4be0&is=65d8d6e0&hm=91b16905511978a1f15bdb6a3dd9d0d61e8516d3779e71ff006dac70f7b3a158&",
+"https://cdn.discordapp.com/attachments/1021422952769650818/1210640554811981855/7cb7fee465024f546d4eced9bb9c6645.gif?ex=65eb4be0&is=65d8d6e0&hm=83f18fd8156d537378ffc2dfb075c74602cbde983571a0559027f8491960f3b5&",
                          ];
 const smallpictureGede = [
-"https://cdn.discordapp.com/attachments/1151373013749596243/1201067599719571518/8cbd7e449e8cbcd45368837ebab7ba5b.gif?ex=65c8785e&is=65b6035e&hm=496097e6d532610ee7ac6bf4d52a0297a2d9c9b83a8dc3f7e11c44a3a8ad9f05&",
+"https://cdn.discordapp.com/attachments/1021422952769650818/1210640617349189652/d9f6b7bed716e54bf9ee96f74da84c14.gif?ex=65eb4bef&is=65d8d6ef&hm=36a4b94c358a5c0a7054f4fab06cca863c9a7b12b5268357b368024c2f83609f&",
                     ];
 const nameButtonone = "";
 let linkButtonone = "";
